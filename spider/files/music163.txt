@@ -1,0 +1,600 @@
+{
+  "num": "1",
+  "songer": "Charli XCX/Troye Sivan",
+  "song": "1999",
+  "song_time": "03:09"
+}
+{
+  "num": "2",
+  "songer": "肖战",
+  "song": "满足",
+  "song_time": ""
+}
+{
+  "num": "3",
+  "songer": "KSHMR/张杰/Bali Bandits",
+  "song": "LUCKY CHANCES",
+  "song_time": "02:41"
+}
+{
+  "num": "4",
+  "songer": "$唐老师/Wya乌鸦",
+  "song": "买条街",
+  "song_time": "03:05"
+}
+{
+  "num": "5",
+  "songer": "前男友",
+  "song": "不在",
+  "song_time": "04:16"
+}
+{
+  "num": "6",
+  "songer": "RA/BK.",
+  "song": "珍珠",
+  "song_time": "03:51"
+}
+{
+  "num": "7",
+  "songer": "Halsey",
+  "song": "Without Me",
+  "song_time": "03:21"
+}
+{
+  "num": "8",
+  "songer": "Higher Brothers/Phum Viphurit",
+  "song": "Lover Boy 88",
+  "song_time": "03:16"
+}
+{
+  "num": "9",
+  "songer": "王以太",
+  "song": "目不转睛",
+  "song_time": "02:42"
+}
+{
+  "num": "10",
+  "songer": "Christopher",
+  "song": "Irony",
+  "song_time": "03:28"
+}
+{
+  "num": "11",
+  "songer": "薛之谦",
+  "song": "那是你离开了北京的生活 (live)",
+  "song_time": "04:40"
+}
+{
+  "num": "12",
+  "songer": "Gibb-Z/ICE",
+  "song": "陪着你走",
+  "song_time": "03:06"
+}
+{
+  "num": "13",
+  "songer": "韩安旭",
+  "song": "不在",
+  "song_time": "04:16"
+}
+{
+  "num": "14",
+  "songer": "GENERATIONS from EXILE TRIBE",
+  "song": "少年 (1コーラスver.)",
+  "song_time": "01:52"
+}
+{
+  "num": "15",
+  "songer": "Dimitri Vegas & Like Mike/Julian Banks/Snoop Dogg/Bassjackers",
+  "song": "Bounce",
+  "song_time": "02:37"
+}
+{
+  "num": "16",
+  "songer": "Lady Gaga",
+  "song": "Always Remember Us This Way",
+  "song_time": "03:30"
+}
+{
+  "num": "17",
+  "songer": "黄梓阁/路边打拳皇的小雕",
+  "song": "后来的后来",
+  "song_time": "04:12"
+}
+{
+  "num": "18",
+  "songer": "萧忆情Alex/余夏",
+  "song": "若花怜蝶",
+  "song_time": "04:08"
+}
+{
+  "num": "19",
+  "songer": "Lil Pump/Lil Uzi Vert",
+  "song": "Multi Millionaire",
+  "song_time": "02:50"
+}
+{
+  "num": "20",
+  "songer": "李迦南Doc",
+  "song": "甜",
+  "song_time": "02:20"
+}
+{
+  "num": "21",
+  "songer": "痛仰乐队",
+  "song": "点石成金",
+  "song_time": "05:45"
+}
+{
+  "num": "22",
+  "songer": "Anderson .Paak/Kendrick Lamar",
+  "song": "Tints",
+  "song_time": "04:29"
+}
+{
+  "num": "23",
+  "songer": "尚先生/chill boy/C.N.K",
+  "song": "单车",
+  "song_time": "03:23"
+}
+{
+  "num": "24",
+  "songer": "毛不易",
+  "song": "一江水 - (超级剧集《天坑鹰猎》概念主题曲)",
+  "song_time": "04:25"
+}
+{
+  "num": "25",
+  "songer": "Steve Aoki/TWIIG",
+  "song": "Hoovela",
+  "song_time": "03:27"
+}
+{
+  "num": "26",
+  "songer": "王极",
+  "song": "Why do",
+  "song_time": "04:00"
+}
+{
+  "num": "27",
+  "songer": "Jonas Blue/Liam Payne/Lennon Stella",
+  "song": "Polaroid",
+  "song_time": "03:13"
+}
+{
+  "num": "28",
+  "songer": "Lady Gaga",
+  "song": "I'll Never Love Again (Extended Version)",
+  "song_time": "05:28"
+}
+{
+  "num": "29",
+  "songer": "Alessia Cara",
+  "song": "Trust My Lonely",
+  "song_time": "03:19"
+}
+{
+  "num": "30",
+  "songer": "陈雪凝",
+  "song": "没那么喜欢",
+  "song_time": "04:05"
+}
+{
+  "num": "31",
+  "songer": "Nicky Jam/Steve Aoki",
+  "song": "Jaleo",
+  "song_time": "02:56"
+}
+{
+  "num": "32",
+  "songer": "前男友",
+  "song": "就怕rapper说情话",
+  "song_time": "03:26"
+}
+{
+  "num": "33",
+  "songer": "余佳运",
+  "song": "了解(Knowing)",
+  "song_time": "03:36"
+}
+{
+  "num": "34",
+  "songer": "DoubleNIne/希境",
+  "song": "平生词",
+  "song_time": "02:53"
+}
+{
+  "num": "35",
+  "songer": "邓壬鑫",
+  "song": "你的前女友",
+  "song_time": "03:30"
+}
+{
+  "num": "36",
+  "songer": "Lady Gaga",
+  "song": "Heal Me",
+  "song_time": "03:16"
+}
+{
+  "num": "37",
+  "songer": "艾热/李佳隆",
+  "song": "星球坠落 (Live)",
+  "song_time": "02:49"
+}
+{
+  "num": "38",
+  "songer": "Sam Feldt/Jeremy Renner",
+  "song": "Heaven (Don't Have A Name)",
+  "song_time": "02:56"
+}
+{
+  "num": "39",
+  "songer": "Allie X",
+  "song": "Casanova (Radio Edit)",
+  "song_time": "03:46"
+}
+{
+  "num": "40",
+  "songer": "欧瑞SoulCore/奉天组",
+  "song": "Sophie",
+  "song_time": "02:31"
+}
+{
+  "num": "41",
+  "songer": "Christopher",
+  "song": "Monogamy",
+  "song_time": "03:04"
+}
+{
+  "num": "42",
+  "songer": "王贰浪",
+  "song": "往后余生 - (原唱：马良)",
+  "song_time": "03:51"
+}
+{
+  "num": "43",
+  "songer": "smile_小千/吴磊",
+  "song": "楚客谣 ",
+  "song_time": "04:08"
+}
+{
+  "num": "44",
+  "songer": "幻想组合",
+  "song": "一个幻想",
+  "song_time": "04:33"
+}
+{
+  "num": "45",
+  "songer": "Ella Mai/Chris Brown",
+  "song": "Whatchamacallit",
+  "song_time": "02:59"
+}
+{
+  "num": "46",
+  "songer": "YKEY/h3R3",
+  "song": "答应你",
+  "song_time": "03:20"
+}
+{
+  "num": "47",
+  "songer": "Tom Odell",
+  "song": "You're Gonna Break My Heart Tonight",
+  "song_time": "04:38"
+}
+{
+  "num": "48",
+  "songer": "廖俊涛",
+  "song": "谁 (Live版)",
+  "song_time": "04:14"
+}
+{
+  "num": "49",
+  "songer": "Lil Ghost小鬼",
+  "song": "GOOD NIGHT",
+  "song_time": "02:57"
+}
+{
+  "num": "50",
+  "songer": "Own hero大铠",
+  "song": "做你的男友",
+  "song_time": "02:36"
+}
+{
+  "num": "51",
+  "songer": "若南寻",
+  "song": "【魔道•忘羡】荒唐言（剧情版）",
+  "song_time": "05:27"
+}
+{
+  "num": "52",
+  "songer": "LANY",
+  "song": "Malibu Nights",
+  "song_time": "04:46"
+}
+{
+  "num": "53",
+  "songer": "The Piano Guys/Pyotr Ilyich Tchaikovsky/Scott Friedman/Teddy Geiger/Shawn Mendes/Geoffrey Warburton",
+  "song": "In My Blood / Swan Lake",
+  "song_time": "03:57"
+}
+{
+  "num": "54",
+  "songer": "twenty one pilots",
+  "song": "Morph",
+  "song_time": "04:18"
+}
+{
+  "num": "55",
+  "songer": "王齐铭WatchMe/Gosh Music",
+  "song": "讨厌的喜欢的",
+  "song_time": "02:19"
+}
+{
+  "num": "56",
+  "songer": "45巴图鲁",
+  "song": "溶蔓（feat.弥弥弥）",
+  "song_time": "03:07"
+}
+{
+  "num": "57",
+  "songer": "阿泱",
+  "song": "你的味道",
+  "song_time": "02:31"
+}
+{
+  "num": "58",
+  "songer": "YahikoNy",
+  "song": "The cranberries - Zombie（YahikoNy remix）",
+  "song_time": "04:24"
+}
+{
+  "num": "59",
+  "songer": "陈硕子",
+  "song": "当我要走的时候（合唱版）",
+  "song_time": "04:46"
+}
+{
+  "num": "60",
+  "songer": "林贞儿",
+  "song": "真心话",
+  "song_time": "04:05"
+}
+{
+  "num": "61",
+  "songer": "老王乐队",
+  "song": "我还年轻 我还年轻 - (Teens Edge)",
+  "song_time": "05:47"
+}
+{
+  "num": "62",
+  "songer": "Lil.Jet",
+  "song": "两个人的沙漠",
+  "song_time": "03:48"
+}
+{
+  "num": "63",
+  "songer": "LANY",
+  "song": "Thick And Thin",
+  "song_time": "03:32"
+}
+{
+  "num": "64",
+  "songer": "少年霜",
+  "song": "你心中的一个世界",
+  "song_time": "03:32"
+}
+{
+  "num": "65",
+  "songer": "焦迈奇",
+  "song": "我的名字",
+  "song_time": "04:13"
+}
+{
+  "num": "66",
+  "songer": "肖战",
+  "song": "踩影子 - (电视剧《哦！我的皇帝陛下》插曲)",
+  "song_time": "04:46"
+}
+{
+  "num": "67",
+  "songer": "满舒克",
+  "song": "做我的猫 （圣诞特别版）",
+  "song_time": "03:57"
+}
+{
+  "num": "68",
+  "songer": "周延英（英子-effie）",
+  "song": "半生不熟",
+  "song_time": "04:07"
+}
+{
+  "num": "69",
+  "songer": "高宇Slient",
+  "song": "住进你梦里（Prod by Qwala）",
+  "song_time": "02:30"
+}
+{
+  "num": "70",
+  "songer": "Kc",
+  "song": "情歌一首",
+  "song_time": "03:29"
+}
+{
+  "num": "71",
+  "songer": "小青龙",
+  "song": "Call Me",
+  "song_time": "02:48"
+}
+{
+  "num": "72",
+  "songer": "Why Don't We",
+  "song": "8 Letters (Acoustic)",
+  "song_time": "03:17"
+}
+{
+  "num": "73",
+  "songer": "張赫南MaoM",
+  "song": "热",
+  "song_time": "02:53"
+}
+{
+  "num": "74",
+  "songer": "Pro-Z/YKEY",
+  "song": "到我怀里",
+  "song_time": "03:23"
+}
+{
+  "num": "75",
+  "songer": "Tritonal",
+  "song": "U Found Me",
+  "song_time": "04:35"
+}
+{
+  "num": "76",
+  "songer": "张远谋",
+  "song": "我在曲靖等你",
+  "song_time": "04:00"
+}
+{
+  "num": "77",
+  "songer": "王嘉懿(菜刀)/KT",
+  "song": "我每首情歌都唱给你听",
+  "song_time": "03:10"
+}
+{
+  "num": "78",
+  "songer": "twenty one pilots",
+  "song": "Chlorine",
+  "song_time": "05:24"
+}
+{
+  "num": "79",
+  "songer": "姜云升",
+  "song": "遇见你",
+  "song_time": "02:57"
+}
+{
+  "num": "80",
+  "songer": "少女时代-Oh!GG",
+  "song": "몰랐니 (Lil` Touch)",
+  "song_time": "03:09"
+}
+{
+  "num": "81",
+  "songer": "NaCho/Fi9江澈",
+  "song": "你",
+  "song_time": "04:00"
+}
+{
+  "num": "82",
+  "songer": "朱星杰/Sing/周彦辰",
+  "song": "LOVE DAY",
+  "song_time": "04:04"
+}
+{
+  "num": "83",
+  "songer": "赤褐色",
+  "song": "泡沫时代",
+  "song_time": "05:39"
+}
+{
+  "num": "84",
+  "songer": "Jai Waetford",
+  "song": "Lost In You",
+  "song_time": "03:15"
+}
+{
+  "num": "85",
+  "songer": "Far East Movement/张杰",
+  "song": "竹 (Bamboo)",
+  "song_time": "03:34"
+}
+{
+  "num": "86",
+  "songer": "Zs赵",
+  "song": "爱你在心口",
+  "song_time": "04:56"
+}
+{
+  "num": "87",
+  "songer": "AY楊佬叁/Force嘟嘟/Force嘟嘟",
+  "song": "为什么",
+  "song_time": "02:56"
+}
+{
+  "num": "88",
+  "songer": "王嗣尧TURBO/Gosh Music",
+  "song": "头文字L",
+  "song_time": "03:29"
+}
+{
+  "num": "89",
+  "songer": "KongKong",
+  "song": "❤",
+  "song_time": "02:31"
+}
+{
+  "num": "90",
+  "songer": "李迦南Doc",
+  "song": "You be my love",
+  "song_time": "03:42"
+}
+{
+  "num": "91",
+  "songer": "Sophie Francis",
+  "song": "Weekend Love",
+  "song_time": "02:55"
+}
+{
+  "num": "92",
+  "songer": "VC°",
+  "song": "NO ONE ELSE LIKE YOU",
+  "song_time": "03:54"
+}
+{
+  "num": "93",
+  "songer": "陆虎",
+  "song": "疑似废物 - (电影《胖子行动队》推广曲)",
+  "song_time": "04:32"
+}
+{
+  "num": "94",
+  "songer": "不靠谱组合",
+  "song": "请吃饭的关系",
+  "song_time": "03:02"
+}
+{
+  "num": "95",
+  "songer": "KatSick",
+  "song": "時 差 戀 人",
+  "song_time": "03:29"
+}
+{
+  "num": "96",
+  "songer": "Sigrid",
+  "song": "Sucker Punch",
+  "song_time": "03:14"
+}
+{
+  "num": "97",
+  "songer": "Cllloud",
+  "song": "你的安眠药",
+  "song_time": "01:31"
+}
+{
+  "num": "98",
+  "songer": "千面音葉7ZH/洛天依",
+  "song": "朝汐",
+  "song_time": "04:55"
+}
+{
+  "num": "99",
+  "songer": "The Vamps",
+  "song": "What Your Father Says (Live At Sofar Sounds, London)",
+  "song_time": "03:51"
+}
+{
+  "num": "100",
+  "songer": "永彬Ryan.B/狄迪（D-DAY）",
+  "song": "小鹿乱撞",
+  "song_time": "03:08"
+}
